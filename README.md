@@ -1,19 +1,6 @@
-Who this course is for:
+What is JavaScript?
+    1. JavaScript is a dynamic, weakly typed programming language which is compiled at runtime. It can be executed as part of a webpage in a browser or directly on any machine (“host environment”).
 
-Beginner web development students who have no or only 
+    2. JavaScript was created to make webpages more dynamic (e.g. change content on a page directly from inside the browser). Originally, it was called LiveScript but due to the popularity of Java, it was renamed to JavaScript.
 
-little JavaScript experience
-
-Also developers who know the basics about JavaScript 
-
-and want to deepen their knowledge
-
-Advanced JavaScript developers who want to learn more 
-
-about the nitty-gritty details and dive into advanced 
-
-concepts
-
-Everyone interested in learning JavaScript and all 
-
-about how it works
+    3. JavaScript is totally independent from Java and has nothing in common with Java!
